@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 	<channel>
-		<title>El Pais</title> 
-		<link>https://elpais.com/</link> 
+		<title>Nombre-Sitio</title> 
+		<link>http://sitio.com</link> 
 		<description>En este sitio podras encontrar..........bla, bla.
 		</description> 
 		<language>es-ES</language>
@@ -15,3 +15,6 @@ Pagina que....bla, bla..
 		</item>
 	</channel>
 </rss>
+
+
+
