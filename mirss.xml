@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-	<channel>
-		<title>Nombre-Sitio</title> 
-		<link>http://sitio.com</link> 
-		<description>En este sitio podras encontrar..........bla, bla.
-		</description> 
-		<language>es-ES</language>
-		<item>
-			<title>Mi Pagina</title> 
-			<link>https://elpais.com/</link> 
-			<description>
-Pagina que....bla, bla..
-			</description> 
-		</item>
-	</channel>
+    <channel>
+        <title>Nombre-Sitio</title>
+        <link>http://sitio.com</link>
+        <description>En este sitio podras encontrar..........bla, bla.
+        </description>
+        <language>es-ES</language>
+        <item>
+            <title>Las llamas devoran la Catedral de Notre Dame, París</title>
+            <link>https://elpais.com/</link>
+            <description>
+                Pagina que....bla, bla..
+            </description>
+        </item>
+    </channel>
 </rss>
-
-
-
