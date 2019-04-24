@@ -1,16 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
     <channel>
-        <title>Nombre-Sitio</title>
-        <link>http://sitio.com</link>
-        <description>En este sitio podras encontrar..........bla, bla.
+        <title>Noticias de Actualidad</title>
+        <link>https://sauruslex.github.io/Ilerna/</link>
+        <description>En este sitio podras encontrar todo tipo de noticias de actualidad
         </description>
         <language>es-ES</language>
+
         <item>
             <title>Las llamas devoran la Catedral de Notre Dame, París</title>
             <link>https://sauruslex.github.io/Ilerna/noticia1.html</link>
             <description>
-                La catedral de Notre Dame arde
+                Eran casi las siete de la tarde en la capital francesa cuando, sin previo aviso, un fuego se inició dando lugar a uno de los incendios más devastadores de la ciudad de París
+            </description>
+        </item>
+
+        <item>
+            <title>Bernie Sanders lanza su campaña a la presidencia estadounidense</title>
+            <link>https://sauruslex.github.io/Ilerna/noticia2.html</link>
+            <description>
+                Bernie Sanders lanzó su campaña a la presidencia de 2020 en Brooklyn.
+            </description>
+        </item>
+
+        <item>
+            <title>Guaidó anuncia su regreso a Venezuela y convoca movilizaciones</title>
+            <link>https://sauruslex.github.io/Ilerna/noticia3.html</link>
+            <description>
+                Este sábado, Juan Guaidó, reconocido como mandatario interino de Venezuela por unos 50 países, anunció el regreso a su país y convocó movilizaciones este lunes de Carnaval
+            </description>
+        </item>
+
+        <item>
+            <title>Argentina y Paraguay se retiran de UNASUR</title>
+            <link>https://sauruslex.github.io/Ilerna/noticia4.html</link>
+            <description>
+                Los gobiernos de Argentina y Paraguay anunciaron mediante comunicados de prensa en los sitios de internet de sus ministerios de relaciones exteriores el inicio formal del proceso para retirarse de la Unión de Naciones Suramericanas
+            </description>
+        </item>
+
+        <item>
+            <title>Clima de Canadá se calienta al doble del promedio global</title>
+            <link>https://sauruslex.github.io/Ilerna/noticia5.html</link>
+            <description>
+                Un informe publicado el pasado 2 de abril señala que el calentamiento pasado y futuro de ese país es aproximadamente el doble del promedio global.
             </description>
         </item>
     </channel>
